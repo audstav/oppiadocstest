@@ -1,0 +1,9 @@
+
+/* Change background color to match Kolibri brand */
+.wy-side-nav-search {
+    background-color: #009688 !important;
+ }
+
+.wy-nav-top {
+    background: #009688 !important;   
+}
