@@ -29,7 +29,7 @@ Create a new exploration
 
    *Fig. 1*
 
-2. You will see the Exploration Editor page. Now you have to:
+2. You will see the Exploration Editor page. Now you will have to:
  * create an exploration title
  * write the introduction 
 

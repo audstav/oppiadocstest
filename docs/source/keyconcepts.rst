@@ -53,7 +53,8 @@ This diagram summarizes the relationship between the above concepts:
    
 .. _explorations:
 
-**Exploration:** Explorations are lessons or learning units in Oppia. From a learner's perspective, explorations resemble a conversation between themselves and the tutor. This conversation takes the shape of:  
+**Exploration:** Explorations are lessons or learning units in Oppia. From a learner's perspective, explorations resemble a conversation between themselves and the tutor. This conversation takes the shape of: 
+ 
  * the tutor asking questions (content) 
  * the student answering (interaction) 
  * the student getting feedback (response)
