@@ -1,7 +1,7 @@
-.. _create:
+.. _lesson:
 
 Lesson Creators
-###############
+################
 
 Creating a new lesson
 =====================
@@ -15,7 +15,11 @@ In this section, you will learn how to:
 * :ref:`Add responses (feedback)<addresponses>`
 * :ref:`Add hints to a question<addhints>`
 
-This video will teach you everything you need to know about creating :ref:`explorations<explorations>`, but if you prefer reading the instructions instead, keep scrolling down.
+Watch this video to learn how to create an :ref:`exploration<explorations>`, or if you prefer reading the instructions instead, keep scrolling down.
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ugY1wjl3Ic4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. _createexpl:
 

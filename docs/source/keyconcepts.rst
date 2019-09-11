@@ -20,7 +20,7 @@ Key Terms used in Oppia
 
 .. _story:
 
-**Story:** Stories are non-contrived (realistic) scenarios that teach the topic. If the topic is Decimals, then the first story - aiming to introduce the concept - might be a scenario where a customer is in a shop and has to pay an amount in dollars and cents. A story will consits of a set of :ref:`explorations <explorations>` or lessons.
+**Story:** Stories are non-contrived (realistic) scenarios that teach the topic. If the topic is Decimals, then the first story - aiming to introduce the concept - might be a scenario where a customer is in a shop and has to pay an amount in dollars and cents. A story consists of a set of :ref:`explorations <explorations>` or lessons.
 
 .. note:: 
    Stories within a topic have to be linear, i.e., a student must complete a story before beginning the next story.
