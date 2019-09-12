@@ -1,7 +1,7 @@
 .. _keyconcepts:
 
 Key Terms used in Oppia
-########################
+========================
 
 .. admonition:: Terms
 

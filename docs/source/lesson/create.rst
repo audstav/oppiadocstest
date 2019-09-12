@@ -1,7 +1,4 @@
-.. _lesson:
-
-Lesson Creators
-################
+.. _create:
 
 Creating a new lesson
 =====================
