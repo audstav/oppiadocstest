@@ -43,7 +43,8 @@ This diagram summarizes the relationship between the above concepts:
 **Subtopic:** In Oppia, a subtopic refers to a group of skills within a topic. Subtopics are created to provide students the opportunity to review and practice skills. 
 
 .. note:: 
-   If a skill is not assigned to a subtopic, students will not be able to practice that skill. If a subtopic is not created for a topic, students will not be able to practice the topic.
+   * If a skill is not assigned to a subtopic, students will not be able to practice that skill. 
+   * If a subtopic is not created for a topic, students will not be able to practice the topic.
 
 .. figure:: /images/Subtopic.png
    :alt: Subtopic hierarchy

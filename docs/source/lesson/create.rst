@@ -40,7 +40,7 @@ Create a new exploration
 
   *Fig. 2*
 
-3. To create a title for your exploration, click 'Untitled Exploration' in the top left corner. This will take you to the **Settings** page. In the first field **Title**, type in a descriptive title for your exploration. Ignore the other fields for now, we'll look at them in another section.
+3. To create a title for your exploration, click '**Untitled Exploration**' in the top left corner. This will take you to the **Settings** page. In the first field **Title**, type in a descriptive title for your exploration. We'll look at the other fields on this page in another section.
 
 4. To get back to the Exploration editor page, click the |pencil| **Editor** button.
 
@@ -73,7 +73,7 @@ Write the introduction
 
   *Fig. 4*
 
-2. When you're done writing the introduction card, click the |save| button, then click the |add| button.
+2. When you're done writing the Introduction card, click the |save| button, then click the |add| button.
 
 .. |save| image:: /images/save_content.png
           :scale: 35 %
@@ -81,7 +81,7 @@ Write the introduction
 .. |add| image:: /images/add_interaction.png
          :scale: 30%
 
-3. A pop-up box will appear for you to choose an interaction. If you haven't yet asked a question to your reader in the Introduction card, you can select 'Continue Button'. Interactions will be covered in more detail in the :ref:`Add Interactions<addinteractions>` section. 
+3. A pop-up box will appear for you to choose an interaction. If you haven't yet asked a question to your reader in the Introduction card, you can select '**Continue Button**'. Interactions will be covered in more detail in the :ref:`Add Interactions<addinteractions>` section. 
 
 .. _chooseinteraction:
 
@@ -96,7 +96,7 @@ Write the introduction
 .. |saveinteraction| image:: /images/save_interaction.png
                      :scale: 35%
 
-5. You will now see the 'Continue' button below the Introduction card. Click on the bar below **Learner's Answers and Oppia's Responses** to direct what happens when the button is clicked.
+5. You will now see the '**Continue**' button below the Introduction card. Click on the bar below **Learner's Answers and Oppia's Responses** to direct what happens when the button is clicked.
 
 6. To create a new card, click on the drop-down menu below **Oppia directs the learner to...** and select 'A New Card Called...'. Enter the name of the new card in the blank field and click on the |savedestination| button.
 
@@ -143,7 +143,7 @@ In this section, we'll focus on the :ref:`content<content>` where you will ask a
 
 .. topic:: Formatting Content
 
-   The editor box gives you several formatting options including bolding, italicizing, inserting images, links, videos etc. As an example, you may choose to add an additional tab in this section to provide extra information using the 'Insert tabs' button (if you want to provide a hint but not have it show up right away, see the :ref:`Add Hints<addhints>` section instead). This will end up looking like this:
+   The editor box gives you several formatting options including bolding, italicizing, inserting images, links, videos etc. As an example, you may choose to add an additional tab in this section to provide extra information using the '**Insert tabs**' button (if you want to provide a hint but not have it show up right away, see the :ref:`Add Hints<addhints>` section instead). This will end up looking like this:
 
    .. figure:: /images/Content_with_tab.png
       :alt: Editor box with tab inserted
@@ -164,7 +164,7 @@ Now that you've posed a question, the next step is to add an :ref:`interaction<i
 
 1. Click the |add| button.
 
-2. The **Choose Interaction** :ref:`pop-up box<chooseinteraction>` appears. Click on the desired interaction which will bring up the **Customize Interaction** box. The customization options will depend on the type of interaction chosen. In our example, we have selected the **Multiple Choice** interaction.
+2. The **Choose Interaction** :ref:`pop-up box<chooseinteraction>` appears. Click on the desired interaction which will bring up the **Customize Interaction** box. The customization options will depend on the type of interaction chosen. In the example below, we have selected the **Multiple Choice** interaction.
 
 3. When you have finished customizing the Interaction, click on the |saveinteraction| button.
 
@@ -186,7 +186,7 @@ Add Responses
 
 1. After you save an interaction, the **Add Response** pop-up box appears.
 
-2. Choose the learner's possible answer, and add the appropriate response. To add a new response, click the |addanother| button. If the learner's answer is correct, you can create the next card in the exploration and direct the learner there. 
+2. Choose the learner's possible answer, and add the appropriate response. To add a new response, click the |addanother| button. You can direct the learner to a new card based on a certain answer by creating one here. 
 
 .. |addanother| image:: /images/save_add_another.png
                 :scale: 35 %
@@ -206,14 +206,14 @@ Add Responses
    
    When a learner answers incorrectly, there is an option to get the learner to 'try again' or loop back and answer the question again. It isn't always a good idea to do this. Think about whether you are able to group the possible 'wrong' answers in such a way that you can provide detailed feedback to the learner. 
 
-   If you cannot do this, i.e., if the possible 'wrong' answers have come in through a text-field (so you have no way of knowing what the learner might type), or if there are lots of wrong answers to a question - it is better to send the learner to a separate branch to address their misconceptions. Looping them back to the question in this case might cause frustration.
+   If you cannot do this, i.e., if the possible 'wrong' answers have come in through a text-field (so you have no way of knowing what the learner might type), or if there are lots of wrong answers to a question - it is better to send the learner to a separate branch to address their misconceptions. Looping them back to the question in this case might cause frustration as they will end up trying to guess what you want them to say.
 
 .. _addhints:
 
 Add Hints
 *********
 
-.. admonition:: When a Hint will show
+.. admonition:: When a Hint will appear
    
    To prevent learners from abusing the Hint feature, a hint can be requested only if **one** of the following conditions is satisfied:
 
