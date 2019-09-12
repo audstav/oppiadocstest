@@ -16,8 +16,8 @@ Watch this video to learn how to create an :ref:`exploration<explorations>`, or 
 
 .. raw:: html
    
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/ugY1wjl3Ic4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/p_-gsK-zWNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
 .. _createexpl:
 
 Create a new exploration
@@ -31,7 +31,7 @@ Create a new exploration
    *Fig. 1*
 
 2. You will see the Exploration Editor page. Now you will have to:
- * create an exploration title
+ * give your exploration a title
  * write the introduction 
 
 
