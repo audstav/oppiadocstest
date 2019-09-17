@@ -28,6 +28,12 @@ Editing content
 
    *Fig. 1*
 
+3. To delete the entire exploration, go to the |settings| **Settings** button in the navigation bar, and click the |deleteexploration| button located at the bottom of the page.
+
+.. |deleteexploration| image:: /images/delete_exploration.png
+                       :alt: Delete Exploration button
+                       :scale: 35 %
+
 .. _revert:
 
 Working with older versions of the exploration
@@ -80,7 +86,7 @@ From the **History** screen, you have the following options:
 
 .. topic:: Download a version
 
-   Click the *Download* link next to a specific version to download a zip file that will contain all the data for your exploration. It will contain a YAML_ file as well as any additional asset files (such as images) included in your exploration. You can now share this file with other people if you wish.
+   Click the *Download* link next to a version to download a zip file that will contain all the data for your exploration. It will include a YAML_ file as well as any additional asset files (such as images) that are part of your exploration. You can now share this file with other people if you wish.
 
    .. _YAML: https://en.wikipedia.org/wiki/YAML
 
@@ -114,7 +120,7 @@ Reviewing errors and ending the exploration
 
    *Fig. 7*
 
-3. In the **Customize Interaction (End Exploration)** box, you can recommend additional explorations to the learner by clicking on the **Add exploration ID** button. Otherwise click the |saveinteraction| button to end the exploration.
+3. In the **Customize Interaction (End Exploration)** box, you can recommend :ref:`additional explorations <findid>` to the learner by clicking on the **Add exploration ID** button. Otherwise click the |saveinteraction| button to end the exploration.
 
 .. |saveinteraction| image:: /images/save_interaction.png
                      :scale: 35%
@@ -125,6 +131,7 @@ Reviewing errors and ending the exploration
 
    *Fig. 8*
 
+.. _findid:
 
 .. admonition:: Finding the ID of a published exploration
 
@@ -160,6 +167,7 @@ Previewing the exploration
 
 .. |pencil| image:: /images/pencil_icon.png
             :scale: 25 % 
+            :alt: Editor button
 
 .. _publish:
 
@@ -186,12 +194,10 @@ Saving and publishing
                         :alt: Publish Exploration button
                         :scale: 40 %
 
-.. important:: **Deleting or unpublishing an exploration**
-   
-   You will **not** be able to delete or unpublish the exploration once published. Only explorations in draft status may be deleted by going to |settings| **Settings** where you will find the |deleteexploration| button at the bottom of the screen. 
+5. Once published, Oppia will display the URL for your exploration which will now be available in the Oppia library for anyone to learn. Congratulations!
 
-   .. |deleteexploration| image:: /images/delete_exploration.png
-                          :alt: Delete Exploration button
-                          :scale: 35 %
+.. figure:: /images/published_exploration_link.png
+   :alt: Published exploration URL
+   :scale: 40 %
 
-4. Once published, Oppia will display the URL for your exploration which will now be available in the Oppia library for anyone to learn. Congratulations!
+   *Fig. 11*
