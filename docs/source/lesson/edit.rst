@@ -13,6 +13,10 @@ In this section, you will learn how to:
 
 Watch this video to learn how to edit and publish an exploration, or if you prefer reading the instructions instead, keep scrolling down.
 
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/ReMvCH531dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. _editingcontent:
 
 Editing content 
