@@ -1,4 +1,3 @@
-
 Oppia User Guide
 ============================================
 
@@ -17,7 +16,7 @@ To begin, we suggest getting  familiar with the :ref:`key terms used in Oppia <k
 
 :ref:`Lesson Creators - start here<create>`
 --------------------------------------------
-Learn how to create engaging explorations, including how to :ref:`write a good introduction<introduction>`, and :ref:`plan your exploration<createcontent>`.
+Learn how to create engaging explorations, including how to :ref:`write a good introduction <introduction>`, and :ref:`plan your exploration <createcontent>`.
 
 Contributors to Oppia
 ----------------------
@@ -39,4 +38,4 @@ Admins and Topic Managers of Oppia
    :caption: Lesson Creators
    
    lesson/create
-  
+   lesson/edit

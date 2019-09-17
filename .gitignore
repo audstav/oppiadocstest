@@ -2,3 +2,4 @@
 env/
 docs/build/
 docs/source/_templates
+.DS_Store
