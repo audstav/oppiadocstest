@@ -179,7 +179,7 @@ Add Responses
 
 .. admonition:: What to think about
    
-   The Response section is where you decide how Oppia should respond based on the learner's answer. Do you want the learner to redo the question or move them to a different card? If you want them to try again, include some constructive feedback about why the answer was wrong. Even if they have answered correctly, explain why the answer was right.
+   The Response section is where you decide how Oppia should respond based on the learner's answer. Do you want the learner to redo the question or move them to a different card? If you want them to :ref:`try again <loopbacks>`, include some constructive feedback about why the answer was wrong. Even if they have answered correctly, explain why the answer was right.
 
 
 1. After you save an interaction, the **Add Response** pop-up box appears.
@@ -199,6 +199,8 @@ Add Responses
 
 .. |saveresponse| image:: /images/save_response.png
                   :scale: 35 %
+
+.. _loopbacks:
 
 .. admonition:: A word on Loopbacks
    

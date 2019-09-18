@@ -5,7 +5,7 @@ Editing and Publishing a lesson
 
 In this section, you will learn how to:
 
-* :ref:`Edit content in the exploration <editingcontent>`
+* :ref:`Edit content <editingcontent>`
 * :ref:`Work with older versions of your exploration <revert>`
 * :ref:`Review errors and end your exploration <reviewerror>` 
 * :ref:`Preview the exploration <preview>`
