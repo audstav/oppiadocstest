@@ -65,7 +65,7 @@ If you disable the feature, the button is not visible to learners.
 
 .. tip::
 
-   Disable the feature if your exploration content consists of multiple languages.
+   Disable the text-to-speech feature if your exploration content consists of multiple languages.
 
 **Correctness Feedback**
 
