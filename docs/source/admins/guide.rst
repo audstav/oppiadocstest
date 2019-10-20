@@ -91,54 +91,32 @@ The Skill Table is where you will build upon the previous two steps and further 
 
 The skill table should look like this:
 
-.. table:: Skill Table
-   :widths: 3 3 2 2 2
+.. figure:: /images/skill_table_format.png
+   :alt: Skill Table format
+   :align: center
 
-   +------------------+---------------+---------------+---------------+------------------+
-   | Skill            |Specific Errors|Remediation    |Development of |Additional Recap  |
-   |                  |               |               |the Topic      |Questions         |
-   +------------------+---------------+---------------+---------------+------------------+
-   |List the same     |List common    |Describe how   |Outline how you|Include additional|                            
-   |skills identified |mistakes and   |the lessons    |would explain  |recap and test    |
-   |in the :ref:`Skill|misconceptions |will help      |the various    |questions to      | 
-   |Tree <skilltree>` |that learners  |address and    |skills and list|reinforce         |
-   |in the order that |would have when|remedy the     |questions to   |learning.         |
-   |they would be     |dealing with   |misconceptions.|accompany the  |                  |
-   |presented in the  |the skills.    |               |explanation.   |                  |
-   |actual lessons.   |               |               |               |                  |
-   |                  |               |               |               |                  |
-   |                  |               |               |               |                  |
-   +------------------+---------------+---------------+---------------+------------------+
+   *Skill Table*
 
 
-.. list-table:: Explanation of Columns in Skill Table
-   :widths: 15 30
-   :header-rows: 1
+.. topic:: Explanation of columns in Skill Table
 
-   * - Column Heading
-     - Description
-   * - Skill
-     - Start with a target question in mind and work backwards to determine what skills students need to answer it. The more
-       detailed you can get while working backwards step-by-step, the more skills you will be able to identify. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
-   * - Specific Errors
-     - The description of misconceptions should be really specific, such that anyone should be able to read the misconception and
-       predict how a student will answer given a question. In other words, it is insufficient to just say, "Student cannot do skill X correctly."
-   * - Remediation
-     - Some things you might list here include "Return to card that (addresses the misconception)." or "Show a picture that
-       (clarifies a misunderstanding)."
-   * - Development of the Topic
-     - This is the precursor to your script and the most important column. The questions you list here will appear in the :ref:`script <script>`.
-       Make sure each question only introduces *one* new skill to ensure you aren't making leaps too big for the learner's understanding.
-       Some special notations in this column include:
-        * **[Concept]** tag: Denotes questions that introduce new concepts.
-        * **[Test]** tag: Denotes questions that reinforce previous concepts in the lesson.
-        * **[Recap]** tag: Denotes questions that reinforce previous concepts in past lessons.
-        * **[Final Challenge]** tag: These are always at the *end* of the lesson and denote a series of questions that test skills 
-          taught within the lesson.
-        * Colour code all types of questions with a Green, Yellow or Red highlight to denote level of difficulty.
-   * - Additional Recap Questions
-     - The questions you list here will be added to the question bank which will allow Oppia to randomly generate equivalent 
-       questions for students—leading to a varying learning experience each time the student takes the lesson. Use the same denotations as listed in the previous column.
+    * **Skill**: The skills you list here are the same as in the :ref:`Skill Tree <skilltree>`. Start with a target question in mind and work backwards to determine what skills students need to answer it. The more more detailed you can get while working backwards step-by-step, the more skills you will be able to identify. Be aware of potential 'hidden' skills that aren't taught explicitly in the lessons.
+
+    * **Specific Errors**: The description of misconceptions should be really specific, such that anyone should be able to read the misconception and predict how a student will answer given a question. In other words, it is insufficient to just say, "Student cannot do skill X correctly."
+
+    * **Remediation**: Some things you might list here include "Return to card that (addresses the misconception)." or "Show a picture that (clarifies a misunderstanding)."
+
+    * **Development of the Topic**: This is the precursor to your script and the most important column. The questions you list here will appear in the :ref:`script <script>`. Make sure each question only introduces *one* new skill to ensure you aren't making leaps too big for the learner's understanding.
+    
+    Some special notations in this column include:
+
+     - **[Concept]** tag: Denotes questions that introduce new concepts.
+     - **[Test]** tag: Denotes questions that reinforce previous concepts in the lesson.
+     - **[Recap]** tag: Denotes questions that reinforce previous concepts in past lessons.
+     - **[Final Challenge]** tag: These are always at the *end* of the lesson and denote a series of questions that test skills taught within the lesson.
+     - Colour code all types of questions with a Green, Yellow or Red highlight to denote level of difficulty.
+
+    * **Additional Recap Questions**: The questions you list here will be added to the question bank which will allow Oppia to randomly generate equivalent questions for students—leading to a varying learning experience each time the student takes the lesson. Use the same denotations as listed in the previous column.
 
 .. admonition:: Example
    
