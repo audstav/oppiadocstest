@@ -7,7 +7,7 @@ Before reading on, make sure you are familiar with the :ref:`key terms used in O
 
 From a high-level perspective, the process of lesson creation looks like this:
 
-.. figure:: /images/Lesson_creation_guide.png
+.. figure:: /images/lesson_planning_guide.png
    :alt: Lesson Creation Process
    :align: center
 
