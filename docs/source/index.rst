@@ -44,6 +44,13 @@ Admins and Topic Managers of Oppia
 .. toctree::
    :hidden:
    :maxdepth: 3
+   :caption: Contributors
+
+   contributor/contribute
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 3
    :caption: Topic Managers and Admins
 
    admins/guide
