@@ -65,5 +65,5 @@ Before you submit your translations, ask yourself:
 
 .. admonition:: Text Corpora Resources
 
-   * `Linguee <https://www.linguee.com/>`_
-   * `Tradooit <http://www.tradooit.com/>`_ (French, Spanish and English)
+   `Linguee <https://www.linguee.com/>`_
+   `Tradooit <http://www.tradooit.com/>`_ (French, Spanish and English)

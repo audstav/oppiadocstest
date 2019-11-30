@@ -1,3 +1,5 @@
+.. _createskill:
+
 Creating a new skill
 =====================
 
@@ -25,8 +27,6 @@ Creating a new skill
 2. The **Create New Skill** dialog box appears. Enter a description for the new skill under **New Skill Description**.
 
 3. To enter a rubric for a difficulty level, first select the difficulty level under **Add Skill Rubrics** and then enter the rubric in the text box below.
-
-.. _rubrics:
 
 .. admonition:: Rubrics
 
