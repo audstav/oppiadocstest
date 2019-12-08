@@ -133,7 +133,7 @@ When you have finished recording voiceovers for a card, you will notice the card
 
 .. important::
 
-   If the lesson creator has edited the content of an exploration *after* you have recorded a voiceover, you will need to record new audio to reflect these changes. Cards that need updating will have an error flag in the **Translation** screen:
+   If the lesson creator has edited the content of an exploration *after* you have recorded a voiceover, you will need to record new audio to reflect these changes. Cards that need updating will have an error flag in the **Voiceover** screen:
 
     .. figure:: /images/audio_update.png
        :alt: Audio needs update message
