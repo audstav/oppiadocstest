@@ -23,7 +23,7 @@ Watch the video to learn how to contribute translations, or if you prefer readin
 
 4. To begin translating, click the **Translate** button next to a chapter. A pop-up window appears with the content to be translated shown on top. Type in the translations in the text box at the bottom.
 
-.. figure:: /images/translation_card.png
+.. figure:: /images/translation_popupcard.png
    :alt: Translation card
    :scale: 55 %
 
